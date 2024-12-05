@@ -1,0 +1,1 @@
+A test project without usage of any build or dependency management tool. The project is compiled via IDE native compiler (IntelliJ), and only tests are compiled via maven. Tests and project sources have separate dependencies
